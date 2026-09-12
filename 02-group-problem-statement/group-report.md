@@ -6,11 +6,11 @@
 
 | STT | Họ và tên | Mã học viên | Vai trò trong nhóm |
 |---:|---|---|---|
-| 1 | Phạm Hoàng Trọng | 2A202602765 | Đóng góp/pitch 3 Problem Cards; Nhóm trưởng, phân công task |
-| 2 | Lê Thị Thùy Trang | 2A202602678 | Tổng hợp 15 cards, writer, workflow và Problem Statement |
-| 3 | Nguyễn Đức Anh | 2A202602888 | Đóng góp/pitch 3 Problem Cards; Tìm dữ liệu, validate |
-| 4 | Lâm Hải Dương | 2A202602676 | Đóng góp/pitch 3 Problem Cards; Tạo infographic và kiến trúc đo lường |
-| 5 | Nguyễn Quang Huy | 2A202602462 | Đóng góp/pitch 3 Problem Cards; Tìm dữ liệu, validate |
+| 1 | Phạm Hoàng Trọng | 2A202602765 | Nhóm trưởng, điều phối thảo luận (Facilitator) & đóng góp 3 cards |
+| 2 | Lê Thị Thùy Trang | 2A202602678 | Thư ký tổng hợp (Writer), xây dựng workflow & Problem Statement |
+| 3 | Nguyễn Đức Anh | 2A202602888 | Trưởng nhóm khảo sát & phỏng vấn thực địa (Validation Lead) |
+| 4 | Lâm Hải Dương | 2A202602676 | Thiết kế Infographic & xây dựng khung đo lường 4 tầng (Metrics Architect) |
+| 5 | Nguyễn Quang Huy | 2A202602462 | Nghiên cứu công cụ & giải pháp thị trường (Market & Tool Research) |
 
 **Candidate problem nhóm chọn (1 câu):**
 
