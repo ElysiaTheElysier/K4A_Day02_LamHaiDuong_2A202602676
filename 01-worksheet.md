@@ -99,8 +99,8 @@ Mở `02-deliverable-example.md` để xem một bài hoàn chỉnh. Khi đọc,
 
 Self-check:
 
-- [ ] Tôi hiểu nhóm chỉ chọn **candidate problem**, không chọn ngay Problem Statement.
-- [ ] Tôi hiểu deep-dive gồm validation, research, workflow, metric, PS và AI decision.
+- [x] Tôi hiểu nhóm chỉ chọn **candidate problem**, không chọn ngay Problem Statement.
+- [x] Tôi hiểu deep-dive gồm validation, research, workflow, metric, PS và AI decision.
 
 ---
 
@@ -820,15 +820,15 @@ Reflection:
 
 ## Tự kiểm cuối bài
 
-- [ ] [12đ cá nhân] Cá nhân có 5+ problems và top 3 Problem Cards.
-- [ ] [12đ cá nhân] Tôi đã pitch rõ và challenge nhóm đúng trọng tâm.
-- [ ] Nhóm có nhật ký hội tụ từ candidates về 1 bài.
-- [ ] [15đ nhóm] Nhóm có workflow trước/sau.
-- [ ] [20đ nhóm] Nhóm có Problem Statement v0/v1 với metric và boundary rõ.
-- [ ] [15đ nhóm] Nhóm có so sánh No AI / Rule / Workflow / Agent.
-- [ ] [10đ nhóm] Nhóm có Go / Not Yet / No-Go và lý do rõ.
-- [ ] [10đ cá nhân] Reflection cá nhân có nói rõ vai trò trong nhóm, cách dùng AI, điều học được và nếu làm lại sẽ đổi gì.
-- [ ] [6đ cá nhân] Tôi tự giải thích được mạch problem → workflow → metric → boundary → độ phù hợp với AI.
+- [x] [12đ cá nhân] Cá nhân có 5+ problems và top 3 Problem Cards.
+- [x] [12đ cá nhân] Tôi đã pitch rõ và challenge nhóm đúng trọng tâm.
+- [x] Nhóm có nhật ký hội tụ từ candidates về 1 bài.
+- [x] [15đ nhóm] Nhóm có workflow trước/sau.
+- [x] [20đ nhóm] Nhóm có Problem Statement v0/v1 với metric và boundary rõ.
+- [x] [15đ nhóm] Nhóm có so sánh No AI / Rule / Workflow / Agent.
+- [x] [10đ nhóm] Nhóm có Go / Not Yet / No-Go và lý do rõ.
+- [x] [10đ cá nhân] Reflection cá nhân có nói rõ vai trò trong nhóm, cách dùng AI, điều học được và nếu làm lại sẽ đổi gì.
+- [x] [6đ cá nhân] Tôi tự giải thích được mạch problem → workflow → metric → boundary → độ phù hợp với AI.
 
 ---
 
